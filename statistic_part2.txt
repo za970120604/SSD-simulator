@@ -1,0 +1,27 @@
+rawfile952G_simple_LUN3.txt
+	total requests: 187431934
+	read requests: 136773347
+	write requests: 50658587
+	write ratio: 0.2702772463522678
+	read size: 3414.233040332794 GB
+	write size: 785.0295391082764 GB
+	range: 951.9996371269226 GB
+
+rawfile952G_simple_LUN4.txt
+	total requests: 189169923
+	read requests: 157995091
+	write requests: 31174832
+	write ratio: 0.16479803715942729
+	read size: 4507.489982128143 GB
+	write size: 744.2075505256653 GB
+	range: 951.999641418457 GB
+
+rawfile952G_simple_LUN6.txt
+	total requests: 256889146
+	read requests: 201695800
+	write requests: 55193346
+	write ratio: 0.2148527754457948
+	read size: 4746.007921695709 GB
+	write size: 911.6344876289368 GB
+	range: 951.9996647834778 GB
+
