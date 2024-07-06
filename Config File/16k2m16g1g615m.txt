@@ -1,0 +1,8 @@
+blockEndurance	10000	; "10k" cycles
+PsizeByte	18898485248	;16G + 1G615M
+LsizeByte	17179869184	;16G
+blockSizeByte	2097152		;512K
+pageSizeByte	16384		;4K
+sectorSizeByte	512
+maxLogBlocks	4
+foldingLookahead 50		; number of LBAs to lookahead to find folding candidates

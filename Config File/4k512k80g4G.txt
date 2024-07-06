@@ -1,0 +1,6 @@
+blockEndurance	10000		; "10k" cycles
+PsizeByte	90194313216	;80G+4G
+LsizeByte	85899345920	;80G
+blockSizeByte	524288		;512K
+pageSizeByte	4096		;4K
+sectorSizeByte	512
